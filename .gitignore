@@ -1,0 +1,13 @@
+# Ignore VS Code extensions
+.vscode/extensions/
+
+# Ignore Windows AppData
+AppData/
+
+# Ignore virtual environment
+.venv/
+
+# Ignore Jupyter checkpoints or temporary files
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
