@@ -1,0 +1,4 @@
+Model,Dep,F_joint,p_joint,Reject_equality,p_l_SHOCK_Index,p_GARCH_vol_l_SHOCK_Index,p_l_INFL_sa,p_l_IIP_sa,p_l_EXR,p_l_VOL_Base_Index,p_l_MDI_Index
+M1_JobInsec,l_VOL_Base_Index,1.109,0.3549,False,0.5766,0.2159,0.418,0.0027,0.6065,,
+M2_Burnout,l_MDI_Index,4.2577,0.0009,True,0.0256,0.7337,0.737,0.0,,0.001,
+M3_JobQuitting,l_ESCAPE_Index,3.8469,0.002,True,0.0518,0.3114,,,0.3826,0.8706,0.0058

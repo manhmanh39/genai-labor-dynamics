@@ -1,0 +1,2 @@
+model,dep,f_stat,f_pval,coefs_differ
+M2_Burnout,l_MDI_Index,5.5237,0.0001,True

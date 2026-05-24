@@ -1,0 +1,5 @@
+Country,Model,Dependent,base_GenAI_slope,post_slope_GenAI,inter_coef,inter_pval,D_intercept_coef,D_intercept_pval,slope_changed,n_obs
+US,M1_JobInsec,l_VOL_Base_Index,0.59596,0.82044,0.22448,0.4038,1.04717,0.0,False,215
+US,M2_Burnout,l_MDI_Index,-0.01581,0.59023,0.60604,0.0,-0.03473,0.4974,True,215
+US,M3_JobQuitting,l_ESCAPE_Index,0.16508,0.02539,-0.13969,0.3806,-0.11424,0.0,False,215
+VN,M2_Burnout,l_MDI_Index,2.19009,0.47258,-1.71752,0.0,-0.05621,0.0783,True,215

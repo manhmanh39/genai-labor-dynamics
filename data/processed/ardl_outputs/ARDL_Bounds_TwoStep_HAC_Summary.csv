@@ -1,0 +1,7 @@
+Country,Model,Dependent,ARDL,F-statistic,Verdict,ECM Coefficient (φ),Robust p-value,Long-Run Coef (GenAI Shock),LB_p5,ARCH_p5,SpeedAdj_pct
+US,M1_JobInsec,Job Insecurity,"(2,1)",9.2418,Cointegrated,-0.22556,0.0,0.61291,0.4494,0.0007,22.556
+US,M2_Burnout,Burnout (MDI),"(2,1)",38.0052,Cointegrated,-0.1663,0.0027,0.09811,0.1011,0.4566,16.63
+US,M3_JobQuitting,Job Quitting,"(2,1)",62.1826,Cointegrated,-0.19803,0.0037,-0.05221,0.1283,0.0072,19.803
+VN,M1_JobInsec,Job Insecurity,"(4,1)",10.9156,Cointegrated,-0.26919,0.0,1.23346,0.9999,0.0202,26.918999999999997
+VN,M2_Burnout,Burnout (MDI),"(4,1)",14.8221,Cointegrated,-0.536,0.0,0.1602,0.3078,0.8972,53.6
+VN,M3_JobQuitting,Job Quitting,"(4,2)",17.3195,Cointegrated,-0.22544,0.0002,0.06735,0.2369,0.0014,22.544

@@ -1,0 +1,7 @@
+Country,Model,AIC_p,AIC_q,BIC_p,BIC_q,Lag_robust
+US,M1_JobInsec,1,1,1,1,True
+US,M2_Burnout,1,1,5,1,False
+US,M3_JobQuitting,1,1,2,1,False
+VN,M1_JobInsec,1,1,4,1,False
+VN,M2_Burnout,1,1,4,0,False
+VN,M3_JobQuitting,1,1,5,2,False

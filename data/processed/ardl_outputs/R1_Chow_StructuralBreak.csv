@@ -1,0 +1,7 @@
+Country,Model,Dependent,f_stat,f_pval,n_pre,n_post,break_date,has_break
+US,M1_JobInsec,l_VOL_Base_Index,7.5967,0.0,42,174,2022-11,True
+US,M2_Burnout,l_MDI_Index,3.1998,0.0003,42,174,2022-11,True
+US,M3_JobQuitting,l_ESCAPE_Index,1.8077,0.0492,42,174,2022-11,True
+VN,M1_JobInsec,l_VOL_Base_Index,2.4617,0.0041,42,174,2022-11,True
+VN,M2_Burnout,l_MDI_Index,2.6907,0.0023,42,174,2022-11,True
+VN,M3_JobQuitting,l_ESCAPE_Index,2.2252,0.0083,42,174,2022-11,True

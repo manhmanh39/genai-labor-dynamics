@@ -1,0 +1,7 @@
+Country,Model,BG_p_BG_crit,BG_q_BG_crit,BIC_p,BIC_q,BG_resid_clean_BGcrit,BG_resid_clean_BIC
+US,M1_JobInsec,1,1,1,1,True,True
+US,M2_Burnout,1,1,2,1,True,False
+US,M3_JobQuitting,1,1,2,1,False,False
+VN,M1_JobInsec,2,1,4,1,True,True
+VN,M2_Burnout,1,1,3,1,False,False
+VN,M3_JobQuitting,3,2,4,2,True,False

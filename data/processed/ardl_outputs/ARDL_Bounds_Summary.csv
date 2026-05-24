@@ -1,0 +1,13 @@
+Country,Period,Model,Dependent,N_obs,ARDL,F-statistic,CV Source,Verdict,ECM Coefficient (φ),Robust p-value,Long-Run Coef (GenAI Shock),LR_AI_Vol,BG_p (resid clean),Clean_BG,Coint_valid,SpeedAdj_pct
+US,Pre,M1_JobInsec,Job Insecurity,46,"(2,1)",0.6743,Narayan(2005) T≈55,No cointegration,,,,,0.0232,False,False,
+US,Post,M1_JobInsec,Job Insecurity,170,"(1,1)",22.7455,Pesaran(2001) asymptotic,Cointegrated,-0.31799,0.0,0.51553,0.4365,0.073,True,True,31.799
+US,Pre,M2_Burnout,Burnout (MDI),46,"(1,1)",3.9698,Narayan(2005) T≈55,Inconclusive,-0.44477,0.0028,0.02454,-0.3468,0.3389,True,True,44.477
+US,Post,M2_Burnout,Burnout (MDI),170,"(1,1)",56.9626,Pesaran(2001) asymptotic,Cointegrated,-0.11097,0.0389,0.26199,-0.20076,0.4786,True,True,11.097
+US,Pre,M3_JobQuitting,Job Quitting,46,"(2,1)",3.2282,Narayan(2005) T≈55,Inconclusive,-0.66186,0.001,0.01912,0.73095,0.5966,True,True,66.186
+US,Post,M3_JobQuitting,Job Quitting,170,"(1,1)",55.9583,Pesaran(2001) asymptotic,Cointegrated,-0.2785,0.0001,-0.0844,0.02902,0.0069,False,True,27.85
+VN,Pre,M1_JobInsec,Job Insecurity,46,"(1,1)",1.4854,Narayan(2005) T≈55,No cointegration,,,,,0.7609,True,False,
+VN,Post,M1_JobInsec,Job Insecurity,170,"(2,1)",6.1705,Pesaran(2001) asymptotic,Cointegrated,-0.45757,0.0,1.17753,-2.37494,0.4639,True,True,45.757
+VN,Pre,M2_Burnout,Burnout (MDI),46,"(1,1)",3.6715,Narayan(2005) T≈55,Inconclusive,-0.88832,0.0,1.43389,3.61104,0.085,True,True,88.832
+VN,Post,M2_Burnout,Burnout (MDI),170,"(1,1)",17.7079,Pesaran(2001) asymptotic,Cointegrated,-0.62954,0.0,0.1967,-0.95177,0.0362,False,True,62.954
+VN,Pre,M3_JobQuitting,Job Quitting,46,"(1,1)",10.2931,Narayan(2005) T≈55,Cointegrated,-1.32675,0.0,-0.47529,-0.33714,0.0075,False,True,132.675
+VN,Post,M3_JobQuitting,Job Quitting,170,"(3,2)",12.6983,Pesaran(2001) asymptotic,Cointegrated,-0.22277,0.001,-0.01537,0.5953,0.2536,True,True,22.277

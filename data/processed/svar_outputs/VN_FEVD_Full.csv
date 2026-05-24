@@ -1,0 +1,126 @@
+country,response,shock,week,share_pct
+VN,AI Volatility,AI Volatility,1,100.0
+VN,AI Volatility,AI Volatility,2,21.95648
+VN,AI Volatility,AI Volatility,3,2e-05
+VN,AI Volatility,AI Volatility,4,0.33368
+VN,AI Volatility,AI Volatility,5,5.55003
+VN,AI Volatility,GenAI Shock,1,0.0
+VN,AI Volatility,GenAI Shock,2,78.04352
+VN,AI Volatility,GenAI Shock,3,11.21391
+VN,AI Volatility,GenAI Shock,4,28.66174
+VN,AI Volatility,GenAI Shock,5,10.0852
+VN,AI Volatility,Job Insecurity (level),1,0.0
+VN,AI Volatility,Job Insecurity (level),2,0.0
+VN,AI Volatility,Job Insecurity (level),3,88.78607
+VN,AI Volatility,Job Insecurity (level),4,5.19274
+VN,AI Volatility,Job Insecurity (level),5,4.3771
+VN,AI Volatility,Burnout (MDI),1,0.0
+VN,AI Volatility,Burnout (MDI),2,0.0
+VN,AI Volatility,Burnout (MDI),3,0.0
+VN,AI Volatility,Burnout (MDI),4,65.81184
+VN,AI Volatility,Burnout (MDI),5,13.8323
+VN,AI Volatility,Job Quitting (level),1,0.0
+VN,AI Volatility,Job Quitting (level),2,0.0
+VN,AI Volatility,Job Quitting (level),3,0.0
+VN,AI Volatility,Job Quitting (level),4,0.0
+VN,AI Volatility,Job Quitting (level),5,66.15537
+VN,GenAI Shock,AI Volatility,1,96.24371
+VN,GenAI Shock,AI Volatility,2,20.10337
+VN,GenAI Shock,AI Volatility,3,1.10186
+VN,GenAI Shock,AI Volatility,4,0.6519
+VN,GenAI Shock,AI Volatility,5,4.57972
+VN,GenAI Shock,GenAI Shock,1,0.05773
+VN,GenAI Shock,GenAI Shock,2,72.95991
+VN,GenAI Shock,GenAI Shock,3,17.35511
+VN,GenAI Shock,GenAI Shock,4,23.77445
+VN,GenAI Shock,GenAI Shock,5,21.58139
+VN,GenAI Shock,Job Insecurity (level),1,3.12423
+VN,GenAI Shock,Job Insecurity (level),2,3.95073
+VN,GenAI Shock,Job Insecurity (level),3,81.01538
+VN,GenAI Shock,Job Insecurity (level),4,4.43591
+VN,GenAI Shock,Job Insecurity (level),5,6.65184
+VN,GenAI Shock,Burnout (MDI),1,0.22589
+VN,GenAI Shock,Burnout (MDI),2,0.06739
+VN,GenAI Shock,Burnout (MDI),3,0.42803
+VN,GenAI Shock,Burnout (MDI),4,71.03318
+VN,GenAI Shock,Burnout (MDI),5,14.68964
+VN,GenAI Shock,Job Quitting (level),1,0.34843
+VN,GenAI Shock,Job Quitting (level),2,2.91861
+VN,GenAI Shock,Job Quitting (level),3,0.09962
+VN,GenAI Shock,Job Quitting (level),4,0.10457
+VN,GenAI Shock,Job Quitting (level),5,52.49742
+VN,Job Insecurity (level),AI Volatility,1,85.25673
+VN,Job Insecurity (level),AI Volatility,2,15.906
+VN,Job Insecurity (level),AI Volatility,3,1.56325
+VN,Job Insecurity (level),AI Volatility,4,0.64662
+VN,Job Insecurity (level),AI Volatility,5,5.305
+VN,Job Insecurity (level),GenAI Shock,1,3.42834
+VN,Job Insecurity (level),GenAI Shock,2,66.41102
+VN,Job Insecurity (level),GenAI Shock,3,18.5812
+VN,Job Insecurity (level),GenAI Shock,4,24.84481
+VN,Job Insecurity (level),GenAI Shock,5,20.13454
+VN,Job Insecurity (level),Job Insecurity (level),1,7.0104
+VN,Job Insecurity (level),Job Insecurity (level),2,6.65978
+VN,Job Insecurity (level),Job Insecurity (level),3,79.24553
+VN,Job Insecurity (level),Job Insecurity (level),4,4.47081
+VN,Job Insecurity (level),Job Insecurity (level),5,6.44319
+VN,Job Insecurity (level),Burnout (MDI),1,0.29462
+VN,Job Insecurity (level),Burnout (MDI),2,0.05291
+VN,Job Insecurity (level),Burnout (MDI),3,0.4494
+VN,Job Insecurity (level),Burnout (MDI),4,69.91617
+VN,Job Insecurity (level),Burnout (MDI),5,14.0788
+VN,Job Insecurity (level),Job Quitting (level),1,4.00991
+VN,Job Insecurity (level),Job Quitting (level),2,10.97029
+VN,Job Insecurity (level),Job Quitting (level),3,0.16061
+VN,Job Insecurity (level),Job Quitting (level),4,0.12159
+VN,Job Insecurity (level),Job Quitting (level),5,54.03847
+VN,Burnout (MDI),AI Volatility,1,79.96759
+VN,Burnout (MDI),AI Volatility,2,15.30359
+VN,Burnout (MDI),AI Volatility,3,3.79545
+VN,Burnout (MDI),AI Volatility,4,1.8494
+VN,Burnout (MDI),AI Volatility,5,7.09903
+VN,Burnout (MDI),GenAI Shock,1,4.62748
+VN,Burnout (MDI),GenAI Shock,2,66.92148
+VN,Burnout (MDI),GenAI Shock,3,19.36462
+VN,Burnout (MDI),GenAI Shock,4,23.04136
+VN,Burnout (MDI),GenAI Shock,5,18.40771
+VN,Burnout (MDI),Job Insecurity (level),1,10.07413
+VN,Burnout (MDI),Job Insecurity (level),2,6.51741
+VN,Burnout (MDI),Job Insecurity (level),3,75.01914
+VN,Burnout (MDI),Job Insecurity (level),4,10.0762
+VN,Burnout (MDI),Job Insecurity (level),5,5.92865
+VN,Burnout (MDI),Burnout (MDI),1,1.81594
+VN,Burnout (MDI),Burnout (MDI),2,0.59722
+VN,Burnout (MDI),Burnout (MDI),3,0.8327
+VN,Burnout (MDI),Burnout (MDI),4,64.58676
+VN,Burnout (MDI),Burnout (MDI),5,14.0187
+VN,Burnout (MDI),Job Quitting (level),1,3.51486
+VN,Burnout (MDI),Job Quitting (level),2,10.6603
+VN,Burnout (MDI),Job Quitting (level),3,0.98809
+VN,Burnout (MDI),Job Quitting (level),4,0.44628
+VN,Burnout (MDI),Job Quitting (level),5,54.5459
+VN,Job Quitting (level),AI Volatility,1,77.88163
+VN,Job Quitting (level),AI Volatility,2,15.724
+VN,Job Quitting (level),AI Volatility,3,4.6454
+VN,Job Quitting (level),AI Volatility,4,2.05661
+VN,Job Quitting (level),AI Volatility,5,9.77536
+VN,Job Quitting (level),GenAI Shock,1,5.37585
+VN,Job Quitting (level),GenAI Shock,2,65.45626
+VN,Job Quitting (level),GenAI Shock,3,18.69839
+VN,Job Quitting (level),GenAI Shock,4,22.97864
+VN,Job Quitting (level),GenAI Shock,5,17.38888
+VN,Job Quitting (level),Job Insecurity (level),1,10.69649
+VN,Job Quitting (level),Job Insecurity (level),2,6.70255
+VN,Job Quitting (level),Job Insecurity (level),3,73.74513
+VN,Job Quitting (level),Job Insecurity (level),4,10.03481
+VN,Job Quitting (level),Job Insecurity (level),5,5.57483
+VN,Job Quitting (level),Burnout (MDI),1,2.79272
+VN,Job Quitting (level),Burnout (MDI),2,0.59625
+VN,Job Quitting (level),Burnout (MDI),3,1.96973
+VN,Job Quitting (level),Burnout (MDI),4,64.32648
+VN,Job Quitting (level),Burnout (MDI),5,13.87512
+VN,Job Quitting (level),Job Quitting (level),1,3.25331
+VN,Job Quitting (level),Job Quitting (level),2,11.52094
+VN,Job Quitting (level),Job Quitting (level),3,0.94135
+VN,Job Quitting (level),Job Quitting (level),4,0.60346
+VN,Job Quitting (level),Job Quitting (level),5,53.38581

@@ -1,0 +1,22 @@
+{
+    "US": {
+        "l_SHOCK_Index": 1,
+        "l_VOL_Base_Index": 1,
+        "l_MDI_Index": 1,
+        "l_LEARN_Index": 1,
+        "l_ESCAPE_Index": 1,
+        "l_INFL_sa": 1,
+        "l_IIP_sa": 1,
+        "l_EXR": 1
+    },
+    "VN": {
+        "l_SHOCK_Index": 1,
+        "l_VOL_Base_Index": 0,
+        "l_MDI_Index": 1,
+        "l_LEARN_Index": 0,
+        "l_ESCAPE_Index": 0,
+        "l_INFL_sa": 0,
+        "l_IIP_sa": 1,
+        "l_EXR": 1
+    }
+}

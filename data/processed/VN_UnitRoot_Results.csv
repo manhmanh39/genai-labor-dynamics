@@ -1,0 +1,9 @@
+Variable,reg_form,ADF_level_stat,ADF_level_p,KPSS_level_stat,KPSS_level_p,Level_conclusion,ADF_d1_stat,ADF_d1_p,KPSS_d1_stat,KPSS_d1_p,D1_conclusion,ADF_post_break_p,Post_break_ADF_concl,Break_bias_flag,Integration_Order
+l_SHOCK_Index,c,-0.4055,0.9092,2.1516,0.01,Non-stationary,-12.5496,0.0,0.0975,0.1,Stationary,0.6818,Non-stationary,Consistent,I(1)
+l_VOL_Base_Index,c,-5.1122,0.0,0.1961,0.1,Stationary,-12.4765,0.0,0.3512,0.0982,Stationary,0.0,Stationary,Consistent,I(0)
+l_MDI_Index,c,-6.1952,0.0,0.5427,0.0321,Fractional/Mixed,-13.1702,0.0,0.0779,0.1,Stationary,0.0,Stationary,⚠️ Results differ pre/post break,I(1)
+l_LEARN_Index,c,-5.7778,0.0,0.3209,0.1,Stationary,-11.5691,0.0,0.0553,0.1,Stationary,0.0,Stationary,Consistent,I(0)
+l_ESCAPE_Index,c,-4.3914,0.0003,0.1698,0.1,Stationary,-15.2818,0.0,0.0427,0.1,Stationary,0.0038,Stationary,Consistent,I(0)
+l_INFL_sa,c,-3.911,0.002,0.0887,0.1,Stationary,-14.6079,0.0,0.0631,0.1,Stationary,0.0054,Stationary,Consistent,I(0)
+l_IIP_sa,c,-0.0129,0.9575,1.1511,0.01,Non-stationary,-10.864,0.0,0.2668,0.1,Stationary,0.9417,Non-stationary,Consistent,I(1)
+l_EXR,c,-1.566,0.5006,2.1047,0.01,Non-stationary,-9.6304,0.0,0.0472,0.1,Stationary,0.8131,Non-stationary,Consistent,I(1)
