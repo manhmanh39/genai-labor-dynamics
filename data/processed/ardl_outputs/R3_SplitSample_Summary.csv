@@ -1,7 +1,0 @@
-Country,Model,Dependent,phi_full,phi_pre,phi_post,lr_pre,lr_post,n_pre,n_post
-US,M1_JobInsec,l_VOL_Base_Index,-0.18115,-0.62166,-0.35285,-1.25012,0.34929,42,174
-US,M2_Burnout,l_MDI_Index,-0.17157,-0.68997,-0.16732,-0.29902,0.1768,42,174
-US,M3_JobQuitting,l_ESCAPE_Index,-0.31912,-0.79371,-0.36676,0.06744,-0.01897,42,174
-VN,M1_JobInsec,l_VOL_Base_Index,-0.39108,-0.77283,-0.57817,1.53378,0.83483,42,174
-VN,M2_Burnout,l_MDI_Index,-0.54705,-0.61408,-0.66682,1.49278,0.20733,42,174
-VN,M3_JobQuitting,l_ESCAPE_Index,-0.45242,-1.27212,-0.47743,-0.51698,-0.00436,42,174
